@@ -50,8 +50,6 @@
 - React
   <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -90,9 +88,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -104,7 +99,7 @@ To get a local copy up and running follow these simple example steps.
 To setup the project locally: clone the repository using:
 
 ```
-https://github.com/hakichris/hello-rails-react.git
+https://github.com/hakichris/hello-rails-back-end.git
 ```
 
 ### Install
@@ -151,7 +146,7 @@ login: `localhost:3000`
 
 CContributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/hakichris/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/hakichris/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
